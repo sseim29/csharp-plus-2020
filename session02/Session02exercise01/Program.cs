@@ -8,6 +8,11 @@ namespace Session02exercise01
         {
             Console.WriteLine("Hello World!");
 
+            string stringvalue = "MyStringValue";
+
+            Console.WriteLine("The value of stringvalue is: " + stringvalue);
+
+
             
 
         }
